@@ -80,28 +80,6 @@
 
 ---
 
-## 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nguyentuankiet210666&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 🐍 Hoạt động đóng góp
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nguyentuankiet210666/nguyentuankiet210666/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 💙 Cảm ơn bạn đã ghé thăm GitHub của mình!
 
 **🐍 Học mỗi ngày • 💻 Code mỗi ngày • 🚀 Tiến bộ mỗi ngày**
