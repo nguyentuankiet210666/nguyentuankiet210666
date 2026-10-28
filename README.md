@@ -2,75 +2,52 @@
 
 # 👋 Xin chào, mình là Nguyễn Tuấn Kiệt
 
-### 🐍 Sinh viên • Python Developer • Yêu thích công nghệ
+**🎓 Sinh viên Công nghệ thông tin | 💻 Python • C++ • Android | 🤖 Tìm hiểu AI**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ch%C3%A0o+m%E1%BB%ABng+b%E1%BA%A1n+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+GitHub+c%E1%BB%A7a+m%C3%ACnh+%F0%9F%91%8B;M%C3%ACnh+%C4%91ang+h%E1%BB%8Dc+Python+%F0%9F%90%8D;H%E1%BB%8Dc+m%E1%BB%97i+ng%C3%A0y+%E2%80%A2+Code+m%E1%BB%97i+ng%C3%A0y+%F0%9F%9A%80" />
+Xây dựng ứng dụng thực tế, rèn luyện tư duy lập trình và học hỏi từ mã nguồn mở.
 
-</div>
-
----
-
-## 👨‍💻 Về mình
-
-* 🎓 Mình là một sinh viên đam mê **lập trình và công nghệ**
-* 🐍 Hiện tại đang tập trung học **Python**
-* 🧠 Đang tìm hiểu **Cấu trúc dữ liệu & Giải thuật**
-* 🎮 Thích xây dựng **game và các project nhỏ**
-* 💻 Có kinh nghiệm làm bài tập với **Python, C++ và Git**
-* 🌱 Luôn cố gắng học thêm kiến thức mới mỗi ngày
-* 🎯 Mục tiêu: Trở thành một lập trình viên giỏi hơn qua từng project
-
----
-
-## 🛠️ Ngôn ngữ & Công cụ
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,visualstudio&theme=dark" />
+[![GitHub](https://img.shields.io/badge/GitHub-nguyentuankiet210666-181717?logo=github)](https://github.com/nguyentuankiet210666)
 
 </div>
 
----
+## 👨‍💻 Giới thiệu
+
+- Mình đang học và thực hành **Python, C++, cấu trúc dữ liệu & giải thuật**.
+- Quan tâm đến **phát triển ứng dụng Android**, đặc biệt là những công cụ giải quyết vấn đề hằng ngày.
+- Đang tìm hiểu thêm về **AI, tự động hóa và các dự án mã nguồn mở**.
+- Mình dùng GitHub để lưu bài tập, quản lý mã nguồn và ghi lại quá trình phát triển dự án.
+
+## 🛠️ Công nghệ và công cụ
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,kotlin,html,css,js,git,github,vscode,visualstudio,androidstudio&theme=dark" alt="Python, C++, Kotlin, HTML, CSS, JavaScript, Git, GitHub, VS Code, Visual Studio và Android Studio" />
+</p>
 
 ## 🚀 Dự án nổi bật
 
-### 🐍 Python Journey
+| Dự án | Nội dung | Công nghệ / trọng tâm |
+| --- | --- | --- |
+| [🏸 ShuttleUp Hosting](https://github.com/nguyentuankiet210666/ShuttleUp-Hosting) | Ứng dụng Android giúp host quản lý người chơi, set cầu lông và thanh toán. | Kotlin, WebView, HTML/CSS/JavaScript |
+| [🐍 Python Journey](https://github.com/nguyentuankiet210666/python-journey) | Bài tập và thực hành Python theo từng tuần học. | Python, Git |
+| [🌳 Quản lý danh bạ BST](https://github.com/nguyentuankiet210666/quan-ly-danh-ba-bst) | Thực hành quản lý danh bạ bằng cây tìm kiếm nhị phân. | C++, BST |
+| [🧠 DSALab](https://github.com/nguyentuankiet210666/DSALab) | Tài liệu và mã nguồn thực hành cấu trúc dữ liệu, giải thuật. | C++17, DSA |
+| [🧪 Test-Python](https://github.com/nguyentuankiet210666/Test-Python) | Thực hành xây dựng và kiểm tra các trường hợp kiểm thử. | Python, Testing |
 
-> 📚 Hành trình học Python từ cơ bản đến nâng cao thông qua bài tập và project thực tế.
+### 🤖 Tìm hiểu mã nguồn mở
 
-**Công nghệ:** `Python` `Git` `GitHub`
+- [OpenClaw (fork)](https://github.com/nguyentuankiet210666/openclaw): tìm hiểu trợ lý AI mã nguồn mở và biên soạn README tiếng Việt cho bản fork. **Mã nguồn gốc thuộc dự án [openclaw/openclaw](https://github.com/openclaw/openclaw)**.
 
----
+## 🎯 Mục tiêu tiếp theo
 
-### 🐍 Snake Game
-
-> 🎮 Game Rắn Săn Mồi được xây dựng bằng Python.
-
-**Công nghệ:** `Python`
-
----
-
-### 🌳 BST Contact Manager
-
-> 📒 Chương trình quản lý danh bạ sử dụng cấu trúc dữ liệu Binary Search Tree.
-
-**Công nghệ:** `C++` `BST` `Data Structures`
+- [ ] Hoàn thiện trải nghiệm trên điện thoại cho **ShuttleUp Hosting**.
+- [ ] Tích hợp đăng nhập và đồng bộ dữ liệu nhiều thiết bị cho ứng dụng.
+- [ ] Bổ sung ảnh chụp màn hình, video demo và hướng dẫn chạy cho các dự án.
+- [ ] Tiếp tục học Python, C++ và phát triển sản phẩm thực tế.
 
 ---
-
-
-## 🔥 Chuỗi hoạt động
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nguyentuankiet210666&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 💙 Cảm ơn bạn đã ghé thăm GitHub của mình!
-
-**🐍 Học mỗi ngày • 💻 Code mỗi ngày • 🚀 Tiến bộ mỗi ngày**
+**📚 Học qua thực hành • 🛠️ Làm sản phẩm thật • 🚀 Cải thiện mỗi ngày**
 
 </div>
